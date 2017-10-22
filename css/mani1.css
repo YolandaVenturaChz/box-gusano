@@ -1,0 +1,22 @@
+/*we startded add size and color our boxes */
+div{
+width: 150px;/*add width */
+height: 150px;/* add height*/
+border:76px solid #0000ff;/*add border */
+}
+ /*box placed in the left corner de div */
+ .box1{
+ width: 76px;/*add whidth */
+ height:76px;/*add height */
+ background: #000;/* add color*/
+ border: none;/*delete border */
+ position: absolute;/*add position para que sobresalga */
+ }
+  /*add shadow to div*/
+ .box2{
+ box-shadow: 200px 0 #008000 inset;/* add size and color*/
+ }
+ /*add  background image body */
+ body{
+   background-image:url(C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg);
+ }

@@ -1,0 +1,25 @@
+
+  /*we started add size and color ours boxes */
+div{
+  width: 150px;/*add whidth*/
+  height: 150px;/* add height */
+  border:75px solid red;/*add border */
+}
+   /*this box1 placed in the left corner of the central box2*/
+   .box1{
+   width: 75px;/*add width */
+   height:75px;/*add height */
+   background: yellow;/* add color*/
+   border: none;/*delete border */
+   position: absolute;/*add position to box1 */
+   top: 83px;/* add top*/
+   left: 83px;/*add left */
+   }
+    /*add box shadow*/
+   .box2{
+   box-shadow: 200px 0 #800080 inset;/* add size y color*/
+   }
+   /*add  background image body */
+   body{
+     background-image:url(C:/Users/y_ven/Desktop/../dibu.jpg);
+   }
