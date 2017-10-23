@@ -18,5 +18,5 @@ border:76px solid #0000ff;/*add border */
  }
  /*add  background image body */
  body{
-   background-image:url(C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg);
+   background-image:url('C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg');
  }

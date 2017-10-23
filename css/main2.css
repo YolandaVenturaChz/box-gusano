@@ -11,7 +11,7 @@ div{
    height:75px;/*add height */
    background: yellow;/* add color*/
    border: none;/*delete border */
-   position: absolute;/*add position to box1 */
+   position: fixed;;/*add position to box1 */
    top: 83px;/* add top*/
    left: 83px;/*add left */
    }
@@ -21,5 +21,5 @@ div{
    }
    /*add  background image body */
    body{
-     background-image:url(C:/Users/y_ven/Desktop/../dibu.jpg);
+     background-image:url('C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg');
    }

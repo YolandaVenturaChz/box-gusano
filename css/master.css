@@ -1,7 +1,7 @@
 
 /* initianil add  background image body */
 body{
-  background-image:url(C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg);
+  background-image:url('C:/Users/y_ven/Desktop/gusano/assets/dibu.jpg');
   display: grid;
 }
 /*add width and height to the buttons*/
